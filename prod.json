@@ -1,0 +1,36 @@
+{
+  "title": "Record mailorder Ad",
+  "info": "Seven inch and twelve inch LP's and EP's available in several genres",
+  "products": [
+    {
+      "id": "1",
+      "genre": "80s Pop",
+      "size": " 7 and 12 inch",
+      "desc": "80s pop records that are available in LP/EP format"
+    },
+    {
+      "id": "2",
+      "genre": "New Wave",
+      "size": "7 and 12 inch",
+      "desc": "New Wave genres available as LP's/EPs"
+    },
+    {
+      "id": "3",
+      "genre": "Jazz",
+      "size": "7 inch",
+      "desc": "Jazz collection available as twelve inch at the moment"
+    },
+    {
+      "id": "4 ",
+      "genre": "80s Rock",
+      "size": "7 and 12 inch",
+      "desc": "80s rock are available both as EPs and LPs"
+    },
+    {
+      "id": "5",
+      "genre": "Electro Pop",
+      "size": "7 and 12 inch",
+      "desc": "Anthems of the electro pop genre are EPs and LPs"
+    }
+  ]
+}

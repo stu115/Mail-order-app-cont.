@@ -1,0 +1,11 @@
+{
+  "title": "The Advertisements",
+  "description": "Your app fetched this from a remote/local endpoint!",
+  "ads": [
+    { "id": "1", "title": "Price 1", "date": "01/02/2019" , "contents":" this is the advertisement , in details"},
+    { "id": "2", "title": "Price 2", "date": "1901/02/201985", "contents":" This is about topic 2" },
+    { "id": "3", "title": "Price 3", "date": "01/02/2019", "contents":" This is about topic 3" },
+    { "id": "4", "title": "Price 4", "date": "01/02/2019", "contents":" This is about topic 4" },
+    { "id": "5", "title": "Price 5", "date": "01/02/2019", "contents":" This is about topic 5" }
+  ]
+}
